@@ -1,0 +1,173 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.9 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{Harrison}{book}{}
+      \name{author}{1}{}{%
+        {{hash=924106e4b1a356f04874f1e7467653e8}{%
+           family={Harrison\bibnamedelima C.},
+           familyi={H\bibinitperiod\bibinitdelim C\bibinitperiod},
+           given={Donnelly\bibnamedelima I.A.},
+           giveni={D\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {UK}%
+      }
+      \strng{namehash}{924106e4b1a356f04874f1e7467653e8}
+      \strng{fullhash}{924106e4b1a356f04874f1e7467653e8}
+      \strng{bibnamehash}{924106e4b1a356f04874f1e7467653e8}
+      \strng{authorbibnamehash}{924106e4b1a356f04874f1e7467653e8}
+      \strng{authornamehash}{924106e4b1a356f04874f1e7467653e8}
+      \strng{authorfullhash}{924106e4b1a356f04874f1e7467653e8}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Theory of smart cities.}
+      \field{year}{2011}
+      \field{pages}{1\bibrangedash 15}
+      \range{pages}{15}
+    \endentry
+    \entry{Almanah}{book}{}
+      \name{author}{1}{}{%
+        {{hash=6a9f2dd153267632b958ec5411ab957f}{%
+           family={А.},
+           familyi={А\bibinitperiod},
+           given={Овчинников},
+           giveni={О\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Овчинников А.}%
+      }
+      \strng{namehash}{6a9f2dd153267632b958ec5411ab957f}
+      \strng{fullhash}{6a9f2dd153267632b958ec5411ab957f}
+      \strng{bibnamehash}{6a9f2dd153267632b958ec5411ab957f}
+      \strng{authorbibnamehash}{6a9f2dd153267632b958ec5411ab957f}
+      \strng{authornamehash}{6a9f2dd153267632b958ec5411ab957f}
+      \strng{authorfullhash}{6a9f2dd153267632b958ec5411ab957f}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Введение в проблематику Смарт Сити}
+      \field{year}{2015}
+      \field{pages}{3\bibrangedash 7}
+      \range{pages}{5}
+    \endentry
+    \entry{NK}{article}{}
+      \name{author}{1}{}{%
+        {{hash=d9a465e9b800720eddb12030c53f8507}{%
+           family={Лагутенков},
+           familyi={Л\bibinitperiod},
+           given={Алексей},
+           giveni={А\bibinitperiod}}}%
+      }
+      \strng{namehash}{d9a465e9b800720eddb12030c53f8507}
+      \strng{fullhash}{d9a465e9b800720eddb12030c53f8507}
+      \strng{bibnamehash}{d9a465e9b800720eddb12030c53f8507}
+      \strng{authorbibnamehash}{d9a465e9b800720eddb12030c53f8507}
+      \strng{authornamehash}{d9a465e9b800720eddb12030c53f8507}
+      \strng{authorfullhash}{d9a465e9b800720eddb12030c53f8507}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Наука и жизнь}
+      \field{title}{«Умный город»: от концепции к воплощению}
+      \field{year}{2018}
+      \field{number}{8}
+      \range{number}{1}
+      \verb{urlraw}
+      \verb https://www.nkj.ru/archive/articles/34224/
+      \endverb
+      \verb{url}
+      \verb https://www.nkj.ru/archive/articles/34224/
+      \endverb
+    \endentry
+    \entry{journal}{article}{}
+      \name{author}{1}{}{%
+        {{hash=963fdbdb5b44adf7889a517131f0dc8e}{%
+           family={Карпов},
+           familyi={К\bibinitperiod},
+           given={Василий},
+           giveni={В\bibinitperiod}}}%
+      }
+      \strng{namehash}{963fdbdb5b44adf7889a517131f0dc8e}
+      \strng{fullhash}{963fdbdb5b44adf7889a517131f0dc8e}
+      \strng{bibnamehash}{963fdbdb5b44adf7889a517131f0dc8e}
+      \strng{authorbibnamehash}{963fdbdb5b44adf7889a517131f0dc8e}
+      \strng{authornamehash}{963fdbdb5b44adf7889a517131f0dc8e}
+      \strng{authorfullhash}{963fdbdb5b44adf7889a517131f0dc8e}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Автоматизированная система	контроля количества	и качества предоставления коммунальных услуг населению города}
+      \field{year}{2007.04.}
+      \verb{urlraw}
+      \verb https://www.cta.ru/cms/f/?/364254.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.cta.ru/cms/f/?/364254.pdf
+      \endverb
+    \endentry
+    \entry{journal2}{article}{}
+      \name{author}{1}{}{%
+        {{hash=c2fff66da55f7f355625cee91b1d3aa5}{%
+           family={Тенякова},
+           familyi={Т\bibinitperiod},
+           given={Роза},
+           giveni={Р\bibinitperiod}}}%
+      }
+      \strng{namehash}{c2fff66da55f7f355625cee91b1d3aa5}
+      \strng{fullhash}{c2fff66da55f7f355625cee91b1d3aa5}
+      \strng{bibnamehash}{c2fff66da55f7f355625cee91b1d3aa5}
+      \strng{authorbibnamehash}{c2fff66da55f7f355625cee91b1d3aa5}
+      \strng{authornamehash}{c2fff66da55f7f355625cee91b1d3aa5}
+      \strng{authorfullhash}{c2fff66da55f7f355625cee91b1d3aa5}
+      \field{sortinit}{5}
+      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Система сбора и обработки данных узлов учета тепловой энергии в ЖКХ "СКАУТ-тепло"}
+      \field{year}{2010.03.}
+      \verb{urlraw}
+      \verb https://www.cta.ru/cms/f/434758.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.cta.ru/cms/f/434758.pdf
+      \endverb
+    \endentry
+    \entry{smartcity}{article}{}
+      \field{sortinit}{6}
+      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
+      \field{labeltitlesource}{title}
+      \field{title}{ИНФОРМАЦИОННЫЕ ТЕХНОЛОГИИ В МОСКВЕ}
+      \verb{urlraw}
+      \verb https://www.mos.ru/city/projects/smartcity/
+      \endverb
+      \verb{url}
+      \verb https://www.mos.ru/city/projects/smartcity/
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
